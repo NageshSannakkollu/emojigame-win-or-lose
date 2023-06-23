@@ -1,0 +1,19 @@
+/* Write your code here. */
+
+.win-or-lose-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ffffff30;
+  padding: 10px;
+}
+
+.win-lose-image {
+  height: 200px;
+  width: 200px;
+}
+
+.play-again-button {
+  cursor: pointer;
+  outline: none;
+}

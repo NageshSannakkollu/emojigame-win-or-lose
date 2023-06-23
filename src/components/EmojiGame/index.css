@@ -1,0 +1,11 @@
+/* Write your code here. */
+
+.app-container {
+  min-height: 100vh;
+  background-image: linear-gradient(to right #9796f0, #fbc7d4);
+}
+
+.emoji-items-list {
+  display: flex;
+  flex-wrap: wrap;
+}
